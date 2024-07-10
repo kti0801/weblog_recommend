@@ -1,6 +1,8 @@
 # weblog_recommend
 dacon 추천시스템 대회
 
+https://dacon.io/competitions/official/236290/overview/description
+
 협업시스템 (0.29302)
 
 협업시스템 + 콘텐츠기반 추천시스템(0.32728)
